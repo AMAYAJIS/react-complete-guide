@@ -74,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 March 30 
 
 Worked on reusuablity of components
+
+March 30
+
+Props---> Passing of data over components
